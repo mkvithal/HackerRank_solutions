@@ -1,6 +1,6 @@
 FROM python:3.8.3-alpine3.10
 
-LABEL maintainer="Mehak Vithal <mkvithal98@gmail.com>"
+LABEL maintainer="PEP8 checks <pep8@users.noreply.github.com>"
 LABEL repository="https://github.com/mkvithal/HackerRank_solutions"
 LABEL homepage="https://github.com/mkvithal/HackerRank_solutions"
 
